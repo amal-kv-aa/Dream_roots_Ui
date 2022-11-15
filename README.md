@@ -1,6 +1,6 @@
 UI project 
 Used packages :
-- flutter_screen util
-- google fonts
+- flutter_screen_util
+- google_fonts
 
 
